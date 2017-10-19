@@ -34,5 +34,4 @@ If the makefile is not used in a git repository, or is in a repository with no t
   conditional compilation.
 
 ## Thanks to
-* My friend Jay and people on Stack Overflow for help with regex to parse the version info.
-* The residents of [/r/programming](https://www.reddit.com/r/programming/) for suggesting numerous tweaks and improvements.
+* Mmbcrawfo/GenericMakefile(https://github.com/mbcrawfo/GenericMakefile) for the original project.
