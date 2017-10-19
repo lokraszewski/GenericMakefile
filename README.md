@@ -34,4 +34,4 @@ If the makefile is not used in a git repository, or is in a repository with no t
   conditional compilation.
 
 ## Thanks to
-* Mmbcrawfo/GenericMakefile(https://github.com/mbcrawfo/GenericMakefile) for the original project.
+* [Mmbcrawfo/GenericMakefile](https://github.com/mbcrawfo/GenericMakefile) for the original project.
